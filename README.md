@@ -11,9 +11,6 @@
  * Deploying React App(s) to GitHub/Vercel
 
 
-# Credits
-* Youtube - javascript mastery
-
 
 
 
