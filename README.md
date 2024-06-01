@@ -9,7 +9,7 @@
  * React Project Structure
  * Responsive Website using Reactjs
  * Deploying React App(s) to GitHub/Vercel
- * Containerizing NodeJS app using Docker
+
 
 # Credits
 * Youtube - javascript mastery
