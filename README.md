@@ -1,11 +1,18 @@
-* React Functional components and their reusability
-* React file and folder structure
-* Fundamental CSS properties to master flex & grid
-* Fundamentals of the CSS BEM Model
-* From soft and pleasant animations to complex gradients
-* Perfectly placed media queries for satisfactory responsiveness covering almost devices
+# Concepts Learned
+ * Website Design - Figma
+ * BEM(Block-Element-Modifier) CSS
+ * Flexbox and Grid
+ * Complex CSS Animation (Gradients and Key-frames)
+ * CSS Variables in React Project
+ * React Component Reusability
+ * Clean Imports in React Components
+ * React Project Structure
+ * Responsive Website using Reactjs
+ * Deploying React App(s) to GitHub/Vercel
+ * Containerizing NodeJS app using Docker
 
-
+# Credits
+* Youtube - javascript mastery
 
 
 
