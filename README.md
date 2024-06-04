@@ -10,6 +10,7 @@
  * Responsive Website using Reactjs
  * Deploying React App(s) to GitHub/Vercel
 
+live - https://gpt3insights-jn.netlify.app/
 
 
 
